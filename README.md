@@ -35,7 +35,7 @@ NN-название-темы/
 
 | Тема | Статус | Теория | Практика |
 |---|---|---|---|
-| Линейная алгебра | ⬜ | | |
+| Линейная алгебра | ✅ | [Конспект](0.0-prerequisites/0.1-linear-algebra/0.1-notes.md) | [0.1-practice-habr-KuzMax13.ipynb](0.1-practice-habr-KuzMax13.ipynb)<br>[0.1-practice-yandex.ipynb](0.1-practice-yandex.ipynb)<br>[0.0-math-problem-set.ipynb (Часть 1)](../0.0-math-problem-set.ipynb)|
 | Основы мат. анализа | ⬜ | | |
 | Матрицы | ⬜ | | |
 | Теория вероятности | ⬜ | | |
@@ -99,10 +99,6 @@ NN-название-темы/
 | HF Agents Course | ⬜ | | |
 | Свой agent loop + tool calling с нуля | ⬜ | | |
 | Память агента (файл/SQLite) | ⬜ | | |
-
-## Журнал
-
-Короткие записи — что прошёл, что было сложно, что понял со второго захода: [journal.md](journal.md)
 
 ## Итоги по этапам
 
