@@ -37,8 +37,8 @@ NN-название-темы/
 |---|---|---|---|
 | Линейная алгебра | ✅ | [Конспект](0.0-prerequisites/0.1-linear-algebra/0.1-notes.md) | [0.1-practice-habr-KuzMax13.ipynb](0.0-prerequisites/0.1-linear-algebra/0.1-practice-habr-KuzMax13.ipynb)<br>[0.1-practice-yandex.ipynb](0.0-prerequisites/0.1-linear-algebra/0.1-practice-yandex.ipynb)<br>[0.0-math-problem-set.ipynb (Часть 1)](0.0-prerequisites/0.0-math-problem-set.ipynb)|
 | Матрицы | ✅ | [Конспект](0.0-prerequisites/0.2-matrix/0.2-notes.md) | [0.2-practice-mfti.ipynb](0.0-prerequisites/0.2-matrix/0.2-practice-mfti.ipynb)<br>[0.2-practice-yandex.ipynb](0.0-prerequisites/0.2-matrix/0.2-practice-yandex.ipynb)<br>[0.0-math-problem-set.ipynb (Часть 2)](0.0-prerequisites/0.0-math-problem-set.ipynb)|
-| Основы мат. анализа | 🔄 | | |
-| Теория вероятности | ⬜ | | |
+| Основы мат. анализа | ✅ | [Конспект](0.0-prerequisites/0.3-math-analysis/0.3-notes.md) | [0.3-practice-yandex.ipynb](0.0-prerequisites/0.3-math-analysis/0.3-practice-yandex.ipynb)<br>[0.0-math-problem-set.ipynb (Часть 3)](0.0-prerequisites/0.0-math-problem-set.ipynb)|
+| Теория вероятности | 🔄 | | |
 
 ### Этап 1. Классический ML
 
