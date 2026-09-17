@@ -11,9 +11,8 @@ ml-learning-journal/
 ├── 01-classical-ml/       ← линейные модели, деревья, ансамбли, кластеризация
 ├── 02-dl-foundations/     ← основы Deep Learning (fast.ai + UvA)
 ├── 03-nn-from-scratch/    ← нейросети и трансформеры "с нуля" (Karpathy и др.)
-├── 04-nlp-llm/            ← NLP, трансформеры, LLM, post-training
-├── 05-projects/           ← законченные пет-проекты и Kaggle-соревнования
-├── 06-agents/             ← агентные системы, harness, память
+├── 04-llm/                ← NLP, трансформеры, LLM, post-training
+├── 05-agents/             ← агентные системы, harness, память
 └── _templates/            ← шаблоны для нового конспекта/практики/итога
 ```
 
