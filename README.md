@@ -37,7 +37,7 @@ NN-название-темы/
 | 0.2 | Матрицы | ✅ | [Конспект](0.0-prerequisites/0.2-matrix/0.2-notes.md) | [0.2-practice-mfti.ipynb](0.0-prerequisites/0.2-matrix/0.2-practice-mfti.ipynb)<br>[0.2-practice-yandex.ipynb](0.0-prerequisites/0.2-matrix/0.2-practice-yandex.ipynb)<br>[0.0-math-problem-set.ipynb (Часть 2)](0.0-prerequisites/0.0-math-problem-set.ipynb)|
 | 0.3 | Основы мат. анализа | ✅ | [Конспект](0.0-prerequisites/0.3-math-analysis/0.3-notes.md) | [0.3-practice-yandex.ipynb](0.0-prerequisites/0.3-math-analysis/0.3-practice-yandex.ipynb)<br>[0.0-math-problem-set.ipynb (Часть 3)](0.0-prerequisites/0.0-math-problem-set.ipynb)|
 | 0.4 | Теория вероятности | ✅ | [Конспект](0.0-prerequisites/0.4-probability-theory/0.4-notes.md) | [0.4-practice-yandex.ipynb](0.0-prerequisites/0.4-probability-theory/0.4-practice-yandex.ipynb)<br>[0.0-math-problem-set.ipynb (Часть 4)](0.0-prerequisites/0.0-math-problem-set.ipynb)|
-| 0.5 | Прикладная интеграция | 🔄 | | |
+| 0.5 | Прикладная интеграция | ✅ | | [0.0-math-problem-set.ipynb (Часть 5)](0.0-prerequisites/0.0-math-problem-set.ipynb) |
 
 ### Этап 1. Классический ML
 
@@ -134,14 +134,3 @@ NN-название-темы/
 | 6.7 | Специализация: теория ML/DL (research-трек) | ⬜ | | |
 | 6.8 | Прочие направления (Audio, Diffusion, Robotics, MLOps, AI Safety и др.) | ⬜ | | |
 | 6.9 | Портфолио (SUMMARY.md, README) | ⬜ | | |
-
-## Итоги по этапам
-
-Заполняются по мере прохождения каждого этапа (см. `_templates/SUMMARY-template.md`):
-
-- [ ] Этап 0 — [SUMMARY.md](00-prerequisites/SUMMARY.md)
-- [ ] Этап 1 — [SUMMARY.md](01-classical-ml/SUMMARY.md)
-- [ ] Этап 2 — [SUMMARY.md](02-dl-foundations/SUMMARY.md)
-- [ ] Этап 3 — [SUMMARY.md](03-nn-from-scratch/SUMMARY.md)
-- [ ] Этап 4 — [SUMMARY.md](04-nlp-llm/SUMMARY.md)
-- [ ] Этап 6 — [SUMMARY.md](06-agents/SUMMARY.md)
